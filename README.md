@@ -1,4 +1,3 @@
-# Projects
 Spencer Lim's Project Portfolio
 Welcome to my GitHub repository! This repository hosts my key projects across various fields in data science, including Knowledge Graphs, Portfolio Management, and Computer Vision. Each project demonstrates different skills and techniques that I have applied to solve specific problems or conduct in-depth analyses.
 
@@ -40,4 +39,5 @@ For more details, check the Computer Vision folder for setup guidelines, model t
 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: spencerlim01@gmail.com
+Email: spencerlim@example.com
+LinkedIn: Spencer Lim
