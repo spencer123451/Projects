@@ -1,12 +1,11 @@
 # **Spencer Lim's Project Portfolio**
 
-Welcome to my GitHub repository! This repository hosts my key projects across various fields in data science, including **Knowledge Graphs**, **Portfolio Management**, **Computer Vision**, and **Web Scraping**. Each project demonstrates different skills and techniques that I have applied to solve specific problems or conduct in-depth analyses.
+Welcome to my GitHub repository! This repository hosts my key projects across various fields in data science, including **Portfolio Management**, **Computer Vision**, and **Web Scraping**. Each project demonstrates different skills and techniques that I have applied to solve specific problems or conduct in-depth analyses.
 
 ---
 
 ## **Table of Contents**
 
-- [Graphrag](#graphrag)
 - [Portfolio Management](#portfolio-management)
 - [Computer Vision](#computer-vision)
 - [Web Scraping](#web-scraping)
@@ -14,21 +13,7 @@ Welcome to my GitHub repository! This repository hosts my key projects across va
 
 ---
 
-### **Project 1: Graphrag**
-
-**Description**: `Graphrag` is a knowledge graph pipeline that utilizes text-based data to create relational graphs, offering insights through theme extraction and question-answering features.
-
-- **Technologies**: `Python`, `Streamlit`, `GraphQL`, LLMs (`Graphrag`), `Google Colab`
-- **Key Features**:
-  - **Pipeline for Graph-Based Q&A**: Uses natural language processing to generate themes and answer questions from text files.
-  - **Streamlit Integration**: Allows for easy file upload, processing, and visualization directly in a web app.
-  - **Customizable Output Path**: Streamlined for dynamic input-output handling.
-
-*To run this project*, please follow the setup instructions in the [`Graphrag` folder](./Graphrag) or see detailed steps in `app.py`.
-
----
-
-### **Project 2: Portfolio Management**
+### **Project 1: Portfolio Management**
 
 **Description**: This project applies the **mean-variance optimization** framework to a portfolio of stocks, including major tech companies, to explore risk and return trade-offs.
 
@@ -42,7 +27,7 @@ Welcome to my GitHub repository! This repository hosts my key projects across va
 
 ---
 
-### **Project 3: Computer Vision**
+### **Project 2: Computer Vision**
 
 **Description**: A computer vision project focusing on a **binary classification problem** to predict clothing sleeve lengths (long vs. short sleeves) based on images.
 
@@ -56,7 +41,7 @@ Welcome to my GitHub repository! This repository hosts my key projects across va
 
 ---
 
-### **Project 4: Web Scraping**
+### **Project 3: Web Scraping**
 
 **Description**: This web scraping project focuses on collecting data from various online sources and storing it for analysis.
 
@@ -74,5 +59,4 @@ Welcome to my GitHub repository! This repository hosts my key projects across va
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: spencerlim@example.com
-- **LinkedIn**: [Spencer Lim](https://www.linkedin.com/in/spencerlim)
+- **Email**: spencerlim01@gmail.com
